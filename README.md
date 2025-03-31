@@ -27,7 +27,6 @@ A full-stack web application that connects book lovers to exchange books with ne
 
 ## 📂 Project Structure
 
-```bash
 bookswap/
 ├── assets/            # Static assets
 │   ├── css/           # Stylesheets
@@ -69,7 +68,7 @@ Add books to your collection
 Manage incoming requests
 Mark exchanges as completed
 
-##🤝 Contributing
+## 🤝 Contributing
 
 We welcome contributions! Please follow these steps:
 Fork the project
@@ -84,3 +83,4 @@ Distributed under the MIT License. See LICENSE for more information.
 ## 📬 Contact
 Project Maintainer: Addul Moeid Rao
 Project Link: https://github.com/yourusername/bookswap
+
